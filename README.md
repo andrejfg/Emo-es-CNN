@@ -1,4 +1,4 @@
-# Emocoes-CNN
+# Emoções-CNN
 
 Modelo de reconhecimento de emoções
 
